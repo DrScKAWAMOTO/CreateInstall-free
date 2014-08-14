@@ -6,7 +6,7 @@
    <appname> FullereneViewer</>
    <password> </>
    <addlang> </>
-   <icon> Default</>
+   <icon> Fullereneviewerinstaller</>
    <selfextr> 1</>
    <voltype> nolimit</>
    <volsize> </>
@@ -16,12 +16,12 @@
    <checktype> admin</>
    <chkname> </>
    <chkmsg> </>
-   <dlgfont> Verdana,8</>
+   <dlgfont> ÇlÇr ÉSÉVÉbÉN,10</>
    <lang> Japanese</>
    <theme> Color</>
    <iface> leftlogo</>
-   <leftlogo> </>
-   <logo> C:\Users\kawamoto\Desktop\src\qt-installer-framework\FullereneViewerInstaller.png</>
+   <leftlogo> C:\Users\kawamoto\Desktop\src\CreateInstall-free\FullereneViewerInstaller.bmp</>
+   <logo> C:\Users\kawamoto\Desktop\src\CreateInstall-free\FullereneViewerInstaller.bmp</>
    <vb> </>
    <dao> </>
    <background> 0</>
@@ -35,12 +35,12 @@
    <dlgfinish> 1</>
    <comptype> defnorm</>
    <solid> 1</>
-   <srcfolder> C:\Users\kawamoto\Desktop\src\easy-installer\data</>
+   <srcfolder> C:\Users\kawamoto\Desktop\src\CreateInstall-free\data</>
    <ifexist> asknewer</>
    <runafter> </>
    <runconfirm> 0</>
    <uninclude> 1</>
-   <unicon> Uninstall</>
+   <unicon> Fullereneviewerinstaller</>
    <unshortcut> 0</>
    <unrun> </>
    <silent> 0</>
