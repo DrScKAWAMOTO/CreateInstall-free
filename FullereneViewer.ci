@@ -18,10 +18,10 @@
    <chkmsg> </>
    <dlgfont> ÇlÇr ÉSÉVÉbÉN,10</>
    <lang> Japanese</>
-   <theme> Color</>
+   <theme> Green</>
    <iface> leftlogo</>
-   <leftlogo> C:\Users\kawamoto\Desktop\src\CreateInstall-free\FullereneViewerInstaller.bmp</>
-   <logo> C:\Users\kawamoto\Desktop\src\CreateInstall-free\FullereneViewerInstaller.bmp</>
+   <leftlogo> </>
+   <logo> </>
    <vb> </>
    <dao> </>
    <background> 0</>
@@ -37,8 +37,8 @@
    <solid> 1</>
    <srcfolder> C:\Users\kawamoto\Desktop\src\CreateInstall-free\data</>
    <ifexist> asknewer</>
-   <runafter> </>
-   <runconfirm> 0</>
+   <runafter> FullereneViewer.exe</>
+   <runconfirm> 1</>
    <uninclude> 1</>
    <unicon> Fullereneviewerinstaller</>
    <unshortcut> 0</>
